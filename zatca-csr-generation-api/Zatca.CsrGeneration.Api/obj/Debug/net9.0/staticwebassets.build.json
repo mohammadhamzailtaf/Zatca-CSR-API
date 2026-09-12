@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0Dk8ydgxH24BmRxmufPj6HXgAickduHKi3AT3WWF3NI=",
+  "Source": "Zatca.CsrGeneration.Api",
+  "BasePath": "_content/Zatca.CsrGeneration.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
